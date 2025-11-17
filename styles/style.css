@@ -9,8 +9,11 @@
 ✦ button__text — для обозначения текстового элемента внутри кнопки
 
 */
+@import url('./variables.css');
 
 .page {
   min-inline-size: 320px;
   min-block-size: 100dvb;
+  font-family: var(--font-primary);
+  font-variation-settings: 'wght' var(--font-card-main-weight);
 }

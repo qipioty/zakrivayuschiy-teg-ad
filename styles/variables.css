@@ -1,1 +1,8 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+:root {
+  /* Шрифты */
+  --font-main: 'Inter', sans-serif;
+  --font-accent: 'PressStart2P', monospace;
+  --font-card-main-weight: 400;
+  --font-card-title-weight: 700;
+}
